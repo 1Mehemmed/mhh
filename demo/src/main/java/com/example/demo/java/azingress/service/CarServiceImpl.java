@@ -1,4 +1,4 @@
-package azingress.service;
+package com.example.demo.java.azingress.service;
 
 import azingress.dto.CarRequestDto;
 import azingress.dto.CarResponseDto;

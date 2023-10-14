@@ -1,4 +1,4 @@
-package azingress.repository;
+package com.example.demo.java.azingress.repository;
 
 import azingress.entity.Car;
 import org.springframework.data.jpa.repository.JpaRepository;

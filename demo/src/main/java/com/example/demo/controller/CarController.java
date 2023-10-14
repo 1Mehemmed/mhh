@@ -1,4 +1,4 @@
-package azingress.controller;
+package com.example.demo.controller;
 
 import azingress.dto.CarRequestDto;
 import azingress.dto.CarResponseDto;
